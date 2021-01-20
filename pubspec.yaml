@@ -1,8 +1,8 @@
 name: storage
-description: A new flutter plugin project.
+description: A wrapper of disk storage allows people to cache files to disk more securely without worrying about taking up disk space unlimitedly.
 version: 0.0.1
-author:
-homepage:
+author: smarsufan
+homepage: https://github.com/smarsu/storage.git
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
